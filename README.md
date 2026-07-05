@@ -28,7 +28,7 @@ A Flask-based web application that helps beginners understand programming code b
 
 ## 📂 Project Structure
 
-
+```
 code-explainer/
 │── app.py
 │── token_explainer.py
@@ -41,7 +41,7 @@ code-explainer/
 │   ├── syntax.html
 │   └── error.html
 └── README.md
-
+```
 
 ## ⚙️ Installation
 
@@ -53,27 +53,27 @@ git clone https://github.com/your-username/code-explainer.git
 
 ### 2. Go to the project directory
 
-bash
+```bash
 cd code-explainer
-
+```
 
 ### 3. Install dependencies
 
-bash
+```bash
 pip install flask pygments
-
+```
 
 ### 4. Run the application
 
-bash
+```bash
 python app.py
-
+```
 
 The application will start on:
 
-
+```
 http://127.0.0.1:5000/
-
+```
 
 ## 📖 How It Works
 
